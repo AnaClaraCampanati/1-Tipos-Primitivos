@@ -12,8 +12,6 @@ int numeroDaSorte = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine();
 Console.WriteLine();
-Console.WriteLine();
-Console.WriteLine();
 Console.WriteLine("Nome: " + meuNome);
 Console.WriteLine("Idade: " + (DateTime.Now.Year - minhaDataNascimento.Year).ToString());
 Console.WriteLine("Formada?: " + formada);
